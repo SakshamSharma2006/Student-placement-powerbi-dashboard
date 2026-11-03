@@ -1,0 +1,42 @@
+company_id,company_name,company_type,industry,company_size
+0,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+1,Axiom Global,MNC,Banking & Finance,Large
+2,Veridian Systems,MNC,Consulting,Large
+3,Northstar Corp,MNC,Telecom,Large
+4,Helix International,MNC,Retail Tech,Large
+5,Orbis Group,MNC,Banking & Finance,Large
+6,Tandem Worldwide,MNC,Consulting,Large
+7,Lumen Enterprises,MNC,Telecom,Large
+8,Covalent Corp,MNC,Retail Tech,Large
+9,Pixelforge,Product-Based,SaaS,Small
+10,Cloudnine Labs,Product-Based,Cloud,Medium
+11,Quantora,Product-Based,AI/ML,Large
+12,Vectorly,Product-Based,Cybersecurity,Small
+13,Brightbyte,Product-Based,SaaS,Medium
+14,Nimbus Soft,Product-Based,Cloud,Large
+15,Datawave,Product-Based,AI/ML,Small
+16,Kinetic AI,Product-Based,Cybersecurity,Medium
+17,Zippr,Startup,Fintech,Small
+18,Launchpad Tech,Startup,HealthTech,Medium
+19,Sprout.io,Startup,E-commerce,Large
+20,Nexgrid,Startup,Mobility,Small
+21,Fluxo,Startup,Fintech,Medium
+22,Paperplane,Startup,HealthTech,Large
+23,Bytecraft,Startup,E-commerce,Small
+24,Orbit Labs,Startup,Mobility,Medium
+25,Infratech Services,Service-Based,IT Services,Small
+26,Consultiva,Service-Based,BPO/KPO,Medium
+27,Techbridge Solutions,Service-Based,Consulting,Large
+28,Unity Outsourcing,Service-Based,Infrastructure,Small
+29,Meridian Consulting,Service-Based,IT Services,Medium
+30,Prime Systems,Service-Based,BPO/KPO,Large
+31,Allied Digital,Service-Based,Consulting,Small
+32,Corelink,Service-Based,Infrastructure,Medium
+33,LearnLoop,EdTech,K-12 Learning,Small
+34,Skillstack,EdTech,Upskilling,Medium
+35,Brainwave,EdTech,Test Prep,Large
+36,Classio,EdTech,Corporate Training,Small
+37,Tutorly,EdTech,K-12 Learning,Medium
+38,Upskillr,EdTech,Upskilling,Large
+39,Gradeup Labs,EdTech,Test Prep,Small
+40,Studyverse,EdTech,Corporate Training,Medium
