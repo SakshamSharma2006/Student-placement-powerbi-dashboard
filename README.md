@@ -4,13 +4,13 @@ A 3-page Power BI dashboard built for my Storytelling with Data practical at NMI
 
 ## Dashboard Pages
 ### 1. Placement Outcomes Overview
-![Page 1](screenshots/01_placement_overview.png)
+![Page 1](Screenshot/POWER_BI_Professional-1-1.png)
 
 ### 2. Employability & Skill Drivers
-![Page 2](screenshots/02_employability_drivers.png)
+![Page 2](Screenshot/POWER_BI_Professional-1-2.png)
 
 ### 3. Career Readiness & Risk Insights
-![Page 3](screenshots/03_career_readiness_risk.png)
+![Page 3](Screenshot/POWER_BI_Professional-1-3.png)
 
 ## Key Insights
 - Placement rate of 87.81% with an average package of 11.73 LPA
